@@ -16,6 +16,8 @@ namespace ModelRunnerClient
             Console.WriteLine("This version works with Docker Model Runner's ai/smollm2 model.");
             Console.WriteLine("Type your prompt and press Enter (type 'exit' to quit):");
 
+            // https://huggingface.co/collections/HuggingFaceTB/smollm2-6723884218bcda64b34d7db9
+
             while (true)
             {
                 Console.Write("> ");

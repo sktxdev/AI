@@ -1,6 +1,6 @@
 # AI Experiments
 
-### Docker with AI image
+### Docker with AI models
 
 ``` cmd
 docker model pull ai/smollm2
@@ -14,18 +14,24 @@ curl http://localhost:12434
 #### GPU Usage
 ![Alt text](./images/PerformanceMonitorShowingGPUUsage.png)
 
-### C# talking to Docker AI Image
+### Simple C# AI Client talking to Docker AI Model
 
-
-### Postgres with pgvector
-
-
-### RAG Example
-
+See the code in SimpleAIClient
 
 ### What is Quantization
+[Quantization](Quantization.md)
 
+### Connecting up an AI to an Angular Application w/a C# app api
+Coming soon
 
+### Postgres with pgvector
+Coming soon
+
+### RAG Example
+Coming soon
+
+### Integration with TAM - an example
+Coming soon
 
 
 ### References
