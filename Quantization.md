@@ -10,6 +10,10 @@ Simplified view of a network showing weights and activation
 
 ![Alt text](./images/Activations%20and%20Weights.png)
 
+A more complex view
+
+![Alt text](./images/ANN-with-4-inputs-2-hidden-layers-with-5-neurons-and-3-outputs-Weights-of-connections.png)
+
 ## What are weights and activations (AI generated descriptions)
 
 Weights are numerical values assigned to the connections between neurons in an LLM. They act like coefficients that indicate the importance of a particular input
