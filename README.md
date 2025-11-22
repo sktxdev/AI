@@ -16,7 +16,7 @@ curl http://localhost:12434
 
 ### Simple C# AI Client talking to Docker AI Model
 
-See the code in SimpleAIClient
+See the code in [SimpleAIClient](SimpleAIClient)
 
 ### What is Quantization
 [Quantization](Quantization.md)
@@ -36,4 +36,3 @@ Coming soon
 
 ### References
 https://dzone.com/articles/docker-model-runner-dotnet-guide
-
